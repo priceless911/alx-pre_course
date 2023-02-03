@@ -1,1 +1,1 @@
-my firt time reedme
+my first time readme
