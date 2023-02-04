@@ -1,2 +1,1 @@
-my firt time reedme
-cat
+my first readme
